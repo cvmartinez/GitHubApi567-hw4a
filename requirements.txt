@@ -6,4 +6,4 @@ packaging==24.2
 pluggy==1.5.0
 pytest==8.3.4
 requests==2.32.3
-urllib3==2.3.0
+urllib3==1.26.16  # Use a version compatible with Python < 3.9
