@@ -28,4 +28,3 @@ Challenges Faced
 
  Conclusion
 I created maintainable and extendable code by focusing on testability, modular design, and robust error handling. The integration of GitHub, PyCharm, and CircleCI optimized development and automated testing kept the code functional.
-![image](https://github.com/user-attachments/assets/145460cc-9a4e-4cd4-8139-65f645c9b85b)
